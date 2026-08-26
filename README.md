@@ -5,7 +5,7 @@
 </div>
 
 <p align="center">
-  <em>Basé à Grenoble 🏔️ | Ingénieur IT passionné par le Web, l'analyse fonctionnelle et la Qualité.</em>
+  <em>Basé à Grenoble 🏔️ | Ingénieur en iformatique passionné par le Web, l'analyse fonctionnelle et la Qualité.</em>
 </p>
 
 ---
@@ -50,7 +50,7 @@
 ### 📊 Mes Stats GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VadimSpac&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=3282B8&icon_color=3282B8&text_color=C9D1D9" alt="Stats GitHub de Vadim" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shvadimm&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=3282B8&icon_color=3282B8&text_color=C9D1D9" alt="Stats GitHub" />
 </div>
 
 <br/>
