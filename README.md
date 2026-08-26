@@ -77,12 +77,12 @@ Bienvenue sur ma page GitHub ! Je m'appelle Vadim Spac. Ingénieur IT basé à G
     </td>
     <!-- Nginx -->
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercelapp/nginx-icon.svg" alt="Nginx" width="50" height="50" />
+      <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="Nginx" width="50" height="50" />
       <br>Nginx
     </td>
     <!-- GitHub -->
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercelapp/github-icon.svg" width="65" height="65" alt="GitHub" />
+      <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="GitHub" />
       <br>Github
     </td>
     <!-- Selenium -->
@@ -95,7 +95,7 @@ Bienvenue sur ma page GitHub ! Je m'appelle Vadim Spac. Ingénieur IT basé à G
       <img src="https://skillicons.dev/icons?i=cypress" width="48" height="48" alt="Cypress" />
       <br>Cypress
     </td>
-    <!-- SQL (Placeholder Database) -->
+    <!-- SQL -->
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="SQL" />
       <br>SQL
@@ -113,8 +113,8 @@ Bienvenue sur ma page GitHub ! Je m'appelle Vadim Spac. Ingénieur IT basé à G
 <details>
   <summary>Statistiques du Profil GitHub 💻</summary>
   <br/>
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Vadim's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=shvadimm&show_icons=true&count_private=true&theme=default&hide_border=true&bg_color=fff&title_color=3282B8&icon_color=3282B8" height="192px"/></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Vadim's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shvadimm&langs_count=8&layout=compact&theme=default&hide_border=true&bg_color=fff&title_color=000&icon_color=000" height="192px"/></a>
+    <a href="https://github.com/shvadimm"><img alt="Vadim's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=shvadimm&show_icons=true&count_private=true&theme=default&hide_border=true&bg_color=fff&title_color=3282B8&icon_color=3282B8" height="192px"/></a>
+  <a href="https://github.com/shvadimm"><img alt="Vadim's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shvadimm&langs_count=8&layout=compact&theme=default&hide_border=true&bg_color=fff&title_color=000&icon_color=000" height="192px"/></a>
   <br/>
 </details>
 
@@ -122,14 +122,8 @@ Bienvenue sur ma page GitHub ! Je m'appelle Vadim Spac. Ingénieur IT basé à G
   <summary>Graphe d'Activité 📈</summary>
   <br/>
   
-  [![Vadim's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shvadimm&bg_color=ffffff&color=000000&line=3282B8&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  [![Vadim's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shvadimm&bg_color=ffffff&color=000000&line=3282B8&point=403d3d&area=true&hide_border=true)](https://github.com/shvadimm)
   
-</details>
-
-<details>
-  <summary>Vues du Profil 👁️</summary>
-  <br/>
-  <img src="https://komarev.com/ghpvc/?username=shvadimm&label=VUES+DU+PROFIL&style=for-the-badge&color=brightgreen">
 </details>
 
 <br>
