@@ -1,7 +1,7 @@
 <h1 align="center">Salut, je suis Vadim 👋</h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3282B8&center=true&vCenter=true&width=500&lines=Ing%C3%A9nieur+IT;D%C3%A9veloppeur+Full-Stack;Futur+Expert+QA;Business+Analyst" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3282B8&center=true&vCenter=true&width=500&lines=D%C3%A9veloppeur+Full-Stack;Business+Analyst" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -15,8 +15,6 @@
 - 🎓 Actuellement en fin de Master (Bac+5) à l'EPSI, je me prépare à démarrer une spécialisation en **Quality Assurance (QA)** dès octobre 2026.
 - 💡 Mon parcours hybride me permet de construire des solutions Web performantes tout en gardant une vision rigoureuse sur l'architecture, les tests et l'amélioration continue des processus.
 - 🗣️ Je parle couramment 4 langues : Français, Anglais, Russe et Ukrainien.
-- ⚡ **Fun fact :** J'aime le travail de précision ! Quand je ne suis pas en train de coder ou d'optimiser des requêtes, je fais de la mécanique hybride sur ma voiture, je m'entraîne (merci la créatine !) ou j'expérimente avec l'édition d'image par IA.
-
 ---
 
 ### 🛠️ Mes Technologies Principales
