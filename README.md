@@ -1,63 +1,135 @@
-<h1 align="center">Salut, je suis Vadim 👋</h1>
+<img src="https://raw.githubusercontent.com/rzashakeri/rzashakeri/main/intro.gif" alt="👋 Salut! C'est Vadim" title="👋 Salut! C'est Vadim"/>
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3282B8&center=true&vCenter=true&width=500&lines=D%C3%A9veloppeur+Full-Stack;Business+Analyst" alt="Typing SVG" />
+<div align="justify">
+<a href="https://www.linkedin.com/in/ton-profil-linkedin/">
+<img src="https://img.shields.io/badge/Linkedin-%231DA1F2.svg?style=for-the-badge&logo=Linkedin&logoColor=white">
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="mailto:shvadim92232@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
 </div>
 
-<p align="center">
-  <em>Basé à Grenoble 🏔️ | Ingénieur en iformatique passionné par le Web, l'analyse fonctionnelle et la Qualité.</em>
+<p></p>
+<p align="justify">
+Bienvenue sur ma page GitHub ! Je m'appelle Vadim Spac. Ingénieur IT basé à Grenoble, j'évolue actuellement vers l'analyse fonctionnelle et l'Assurance Qualité (QA) avec une formation spécialisée prévue pour octobre 2026. Ayant débuté en tant que développeur Full-stack, mon expérience me permet aujourd'hui d'interagir facilement entre les équipes techniques et métiers pour construire des architectures logicielles pérennes, des environnements web modernes jusqu'aux systèmes critiques de type IBM i.
 </p>
 
----
+## Outils et Technologies favoris ⚙️
 
-### 👨‍💻 À propos de moi
+> Technologies avec lesquelles je travaille régulièrement et que j'apprécie.
 
-- 🎓 Actuellement en fin de Master (Bac+5) à l'EPSI, je me prépare à démarrer une spécialisation en **Quality Assurance (QA)** dès octobre 2026.
-- 💡 Mon parcours hybride me permet de construire des solutions Web performantes tout en gardant une vision rigoureuse sur l'architecture, les tests et l'amélioration continue des processus.
-- 🗣️ Je parle couramment 4 langues : Français, Anglais, Russe et Ukrainien.
----
+<table>
+  <tr>
+    <!-- C# -->
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="C#" width="65" height="65" />
+      <br>C# .NET
+    </td>
+    <!-- Python -->
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
+      <br>Python
+    </td>
+    <!-- PHP -->
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" />
+      <br>PHP
+    </td>
+    <!-- Javascript -->
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
+      <br>Javascript
+    </td>
+    <!-- Vue.js -->
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=vue" width="48" height="48" alt="Vue.js" />
+      <br>Vue.js
+    </td>
+    <!-- Nuxt.js -->
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=nuxtjs" width="48" height="48" alt="Nuxt.js" />
+      <br>Nuxt.js
+    </td>
+    <!-- Angular -->
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=angular" width="48" height="48" alt="Angular" />
+      <br>Angular
+    </td>
+    <!-- Java -->
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
+      <br>Java
+    </td>
+  </tr>
+  <tr>
+    <!-- Git -->
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+      <br>Git
+    </td>
+    <!-- Docker -->
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="65" height="65" alt="Docker" />
+      <br>Docker
+    </td>
+    <!-- Nginx -->
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="Nginx" width="50" height="50" />
+      <br>Nginx
+    </td>
+    <!-- GitHub -->
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="GitHub" />
+      <br>Github
+    </td>
+    <!-- Selenium -->
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=selenium" width="48" height="48" alt="Selenium" />
+      <br>Selenium
+    </td>
+    <!-- Cypress -->
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=cypress" width="48" height="48" alt="Cypress" />
+      <br>Cypress
+    </td>
+    <!-- DB2 (Placeholder Database) -->
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="SQL" />
+      <br>SQL (DB2)
+    </td>
+    <!-- MariaDB -->
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="MariaDB" />
+      <br>MariaDB
+    </td>
+  </tr>
+</table>
 
-### 🛠️ Mes Technologies Principales
+## Github Stats 📊
 
-<div align="center">
+<details>
+  <summary>Statistiques du Profil GitHub 💻</summary>
+  <br/>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Vadim's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=shvadimm&show_icons=true&count_private=true&theme=default&hide_border=true&bg_color=fff&title_color=3282B8&icon_color=3282B8" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Vadim's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shvadimm&langs_count=8&layout=compact&theme=default&hide_border=true&bg_color=fff&title_color=000&icon_color=000" height="192px"/></a>
+  <br/>
+</details>
+
+<details>
+  <summary>Graphe d'Activité 📈</summary>
+  <br/>
   
-  <br />
-  <!-- FRONT-END -->
-  <img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" alt="Vue.js" />
-  <img src="https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=#00C58E" alt="Nuxt.js" />
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-
-  <br /><br />
-  <!-- BACK-END & LANGAGES -->
-  <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
-  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+  [![Vadim's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shvadimm&bg_color=ffffff&color=000000&line=3282B8&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
   
-  <br /><br />
-  <!-- BASES DE DONNÉES & AUTRES -->
-  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB" />
-  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  
-</div>
+</details>
 
----
+<details>
+  <summary>Vues du Profil 👁️</summary>
+  <br/>
+  <img src="https://komarev.com/ghpvc/?username=shvadimm&label=VUES+DU+PROFIL&style=for-the-badge&color=brightgreen">
+</details>
 
-### 📊 Mes Stats GitHub
+<br>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shvadimm&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=3282B8&icon_color=3282B8&text_color=C9D1D9" alt="Stats GitHub" />
-</div>
-
-<br/>
-
-<div align="center">
-  <a href="mailto:shvadim92232@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://linkedin.com/in/ton-profil-linkedin">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</div>
+<img data-target="animated-image.replacedImage" alt="dino.gif" class="AnimatedImagePlayer-animatedImage" src="https://github.com/saadeghi/saadeghi/raw/master/dino.gif" style="display: block; opacity: 1;">
