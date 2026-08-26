@@ -14,7 +14,7 @@
 
 <p></p>
 <p align="justify">
-Bienvenue sur ma page GitHub ! Je m'appelle Vadim Spac. Ingénieur IT basé à Grenoble, j'évolue actuellement vers l'analyse fonctionnelle et l'Assurance Qualité (QA) avec une formation spécialisée prévue pour octobre 2026. Ayant débuté en tant que développeur Full-stack, mon expérience me permet aujourd'hui d'interagir facilement entre les équipes techniques et métiers pour construire des architectures logicielles pérennes, des environnements web modernes jusqu'aux systèmes critiques de type IBM i.
+Bienvenue sur ma page GitHub ! Je m'appelle Vadim Spac. Ingénieur en informatique et SI basé à Grenoble.
 </p>
 
 ## Outils et Technologies favoris ⚙️
