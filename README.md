@@ -1,4 +1,6 @@
-<img src="https://raw.githubusercontent.com/rzashakeri/rzashakeri/main/intro.gif" alt="👋 Salut! C'est Vadim" title="👋 Salut! C'est Vadim"/>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&pause=1000&color=3282B8&center=true&vCenter=true&width=450&lines=Salut,+je+suis+Vadim!" alt="👋 Salut! C'est Vadim" title="👋 Salut! C'est Vadim"/>
+</div>
 
 <div align="justify">
 <a href="https://www.linkedin.com/in/ton-profil-linkedin/">
@@ -75,12 +77,12 @@ Bienvenue sur ma page GitHub ! Je m'appelle Vadim Spac. Ingénieur IT basé à G
     </td>
     <!-- Nginx -->
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="Nginx" width="50" height="50" />
+      <img src="https://techstack-generator.vercelapp/nginx-icon.svg" alt="Nginx" width="50" height="50" />
       <br>Nginx
     </td>
     <!-- GitHub -->
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="GitHub" />
+      <img src="https://techstack-generator.vercelapp/github-icon.svg" width="65" height="65" alt="GitHub" />
       <br>Github
     </td>
     <!-- Selenium -->
@@ -93,10 +95,10 @@ Bienvenue sur ma page GitHub ! Je m'appelle Vadim Spac. Ingénieur IT basé à G
       <img src="https://skillicons.dev/icons?i=cypress" width="48" height="48" alt="Cypress" />
       <br>Cypress
     </td>
-    <!-- DB2 (Placeholder Database) -->
+    <!-- SQL (Placeholder Database) -->
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="SQL" />
-      <br>SQL (DB2)
+      <br>SQL
     </td>
     <!-- MariaDB -->
     <td align="center" width="96">
